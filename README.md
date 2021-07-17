@@ -10,6 +10,7 @@
 ### Front-End
 - HTML 
 - CSS
+- JS
 - React.js
 
 <!-- Add system architecture -->
